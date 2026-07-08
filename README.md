@@ -4,7 +4,9 @@
 **Alunos:** Bernardo Silveira de Macedo, Rhyan Nogueira Pinto e Wesley Braga de Faria  
 **Semestre de Defesa:** 2026-1  
 
-O tcc está com 90MB, não da pra pré-visualizar, apenas baixando (demora um pouco pra começar a baixar)
+O TCC está com aproximadamente 90 MB, então pode ser que a pré-visualização não funcione corretamente. Nesse caso, será necessário fazer o download do arquivo para visualizá-lo.
+
+O download pode demorar alguns instantes para iniciar devido ao tamanho do arquivo.
 
 [PDF do TCC](tcc/TCC_Avaliacao_Treinador.pdf) 
 
