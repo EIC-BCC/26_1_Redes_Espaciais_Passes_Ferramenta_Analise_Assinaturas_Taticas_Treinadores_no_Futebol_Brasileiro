@@ -4,8 +4,7 @@
 **Alunos:** Bernardo Silveira de Macedo, Rhyan Nogueira Pinto e Wesley Braga de Faria  
 **Semestre de Defesa:** 2026-1  
 
-[PDF do TCC](TCC_Avaliacao_Treinador.pdf)
-
+[PDF do TCC](tcc/TCC_Avaliacao_Treinador.pdf)
 # TL;DR
 
 Este repositório contém os códigos, dados tratados e visualizações utilizados no Trabalho de Conclusão de Curso sobre redes espaciais de passes no futebol brasileiro.
